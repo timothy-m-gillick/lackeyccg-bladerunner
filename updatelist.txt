@@ -1,0 +1,5 @@
+BladeRunner	08-03-22
+plugins/BladeRunner/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-bladerunner/raw/main/plugininfo.txt	158088
+plugins/Amber/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-bladerunner/raw/main/cardback.jpg	636053
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1WCfhW_HyQrw44U21Clye2CpkfiWm9ySW
